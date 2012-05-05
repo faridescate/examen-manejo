@@ -1,0 +1,58 @@
+html,body{
+    margin:0px;
+    height:100%;
+}
+
+#content{
+    height:100%;
+    width:100%;
+}
+#examen {
+    margin-left: 10%;
+    margin-right: 10%;
+    position: absolute;
+    width: 80%;
+    height:90%;
+    display: none;
+}
+#frm_postulante {
+    height: 50%;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+}
+
+#frm_examen {
+    position: absolute;
+    top: 20%;
+    width: 100%;
+}
+
+#postulante {
+    font-size: 40px;
+    left: 40%;
+    position: fixed;
+    text-align: center;
+}
+
+#tiempo, #conteo{
+    font-size:40px;
+    position:relative;
+    text-align: center;
+}
+#preguntaa{
+    height:400px;
+}
+#resultados{
+    font-size: 30px;
+    position: absolute;
+    right: 40%;
+    top: 40%;
+}
+
+#alternativas{
+    text-indent:1.5em;
+}
+#siguiente{
+	font-size:2em;
+}
